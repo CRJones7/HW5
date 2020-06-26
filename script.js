@@ -50,7 +50,7 @@ for(var i = 0; i < 12; i++){
     }
 }
 
-// print to tasks list from local storage
+
 
 
 
@@ -74,5 +74,3 @@ console.log(index);
 
 });
 
-// localStorage.setItem("9AM", (time9AM.val()));
-// $("time9AM").append(localStorage.getItem("#hour-9"));
